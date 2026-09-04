@@ -181,7 +181,6 @@ section{
 .about-text{
   font-size:15px;
   color:var(--ink-soft);
-  max-width:60ch;
   text-align:justify;
 }
 
@@ -273,7 +272,6 @@ section{
   font-size:13px;
   color:var(--ink-soft);
   margin-top:6px;
-  max-width:58ch;
   text-align:justify;
 }
 
